@@ -1,1 +1,1 @@
-"Green Fox Giggle-Syllabus" https://github.com/green-fox-academy/giggle-syllabus <br>
+"My Green Fox Academy Giggle team Typescript practice files" <br>
